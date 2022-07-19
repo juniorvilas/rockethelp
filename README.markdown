@@ -107,7 +107,7 @@ $ expo start
 # O projeto será inicializado em <exp://192.168.1.26:19000> ou <http://localhost:19002/>
 ```
 
-## 📡 Configurações adicionais ao projeto ##
+<!-- ## 📡 Configurações adicionais ao projeto ## -->
 
 <!-- Para executar o projeto você precisa configurar também o graphcms e adicionar os itens para que consiga adicionar e ler itens na aplicação.
 
@@ -115,12 +115,16 @@ O link abaixo, tem o schema que você pode clonar e usar como base para entender
 
 - [https://app.graphcms.com/clone/95c308ff849e40229ecce728ac6c0de4?name=New](https://app.graphcms.com/clone/95c308ff849e40229ecce728ac6c0de4?name=New) -->
 
-### No esquema você pode adicionar os itens para listá-los
+<!-- ### No esquema você pode adicionar os itens para listá-los -->
 
 <!-- - Challenge
 - Lesson
 - Subscriber
 - Teacher -->
+
+## 📡 Material complementar para o projeto ##
+
+[Material](https://efficient-sloth-d85.notion.site/Ignite-Lab-03-606aca4553fc4acc90505eae21521403)
 
 ## :memo: Licença ##
 
