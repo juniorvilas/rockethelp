@@ -61,6 +61,10 @@ Neste evento vimos como usar tecnologias atuais e poderosas na construção de s
 
 <img src="./.github/HomeChamados.png" alt="Imagem da tela Home Chamados" />
 
+## Tela Nova Solicitação ##
+
+<img src="./.github/NovaSolicitacao.png" alt="Imagem da tela Home Chamados" />
+
 ## Tela Solicitação Finalizada ##
 
 <img src="./.github/SolicitacaoFinalizada.png" alt="Imagem da tela Solicitação Finalizada" />
